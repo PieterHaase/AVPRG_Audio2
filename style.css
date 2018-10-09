@@ -11,6 +11,11 @@ html, body {
     float: left;
 }
 
+#mainContainer {
+    height: 100%;
+    width: 100%;
+}
+
 #div1:active, #div2:active, #div3:active, #div4:active {
    background: #ffffff;
 }
