@@ -5,7 +5,7 @@ html, body {
     margin: 0;
 }
 
-div {
+.drumpad {
     width: 50%;
     height: 50%;
     float: left;
